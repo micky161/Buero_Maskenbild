@@ -1,0 +1,21 @@
+Zielsetzung
+
+Schaffung eines Tools / Programm welches es ermöglicht Datensätze zu einer Datenbank hinzuzufügen und diese nutzbar macht für openoffice Vorlagen. Damit aus dem Tool / Programm mit Hilfe der Datenbank Brief, Rechnungen, Kostenkalkulationen angefertigt werden können. 
+
+Datenbanktabellen:
+
+Kunden
+Projekt
+Prohejktleitung
+Regieleitung
+Anschrift
+Kontaktdaten
+Rechnung
+Kostenkalkulation
+Produkt
+
+OpenOffcie Vorlagen:
+
+Brief
+Rechnung
+Kostenkalkulation
