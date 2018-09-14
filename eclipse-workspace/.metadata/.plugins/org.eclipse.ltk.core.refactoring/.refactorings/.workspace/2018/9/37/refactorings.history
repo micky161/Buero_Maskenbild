@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;buero_firstdjango&apos;" deleteContents="false" description="Delete resource &apos;buero_firstdjango&apos;" element1="/buero_firstdjango" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1536944932776"/>&#x0A;<refactoring comment="Delete resource &apos;buero_maskenbild&apos;" deleteContents="false" description="Delete resource &apos;buero_maskenbild&apos;" element1="/buero_maskenbild" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1536946881850"/>
+</session>

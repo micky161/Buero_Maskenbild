@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536944389432_1" label="buero_maske" name="buero_maske"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536946965723_2" label="buero_maskenbild" name="buero_maskenbild">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/buero_maskenbild" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536937895544_0" label="Window Working Set" name="Aggregate for window 1536937895542"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536953249053_3" label="Window Working Set" name="Aggregate for window 1536953249053"/>
+<mruList name="buero_maskenbild"/>
+<mruList name="buero_maske"/>
+</workingSetManager>

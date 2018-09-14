@@ -1,0 +1,14 @@
+MODULES_MANAGER_V2
+blog.__init__|/home/worker/eclipse-workspace/buero_maskenbild/blog/__init__.py
+blog.admin|/home/worker/eclipse-workspace/buero_maskenbild/blog/admin.py
+blog.apps|/home/worker/eclipse-workspace/buero_maskenbild/blog/apps.py
+blog.migrations.0001_initial|/home/worker/eclipse-workspace/buero_maskenbild/blog/migrations/0001_initial.py
+blog.migrations.__init__|/home/worker/eclipse-workspace/buero_maskenbild/blog/migrations/__init__.py
+blog.models|/home/worker/eclipse-workspace/buero_maskenbild/blog/models.py
+blog.tests|/home/worker/eclipse-workspace/buero_maskenbild/blog/tests.py
+blog.views|/home/worker/eclipse-workspace/buero_maskenbild/blog/views.py
+buero_maskenbild.__init__|/home/worker/eclipse-workspace/buero_maskenbild/buero_maskenbild/__init__.py
+buero_maskenbild.settings|/home/worker/eclipse-workspace/buero_maskenbild/buero_maskenbild/settings.py
+buero_maskenbild.urls|/home/worker/eclipse-workspace/buero_maskenbild/buero_maskenbild/urls.py
+buero_maskenbild.wsgi|/home/worker/eclipse-workspace/buero_maskenbild/buero_maskenbild/wsgi.py
+manage|/home/worker/eclipse-workspace/buero_maskenbild/manage.py
